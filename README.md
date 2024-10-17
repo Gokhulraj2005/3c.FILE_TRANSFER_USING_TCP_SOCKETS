@@ -55,9 +55,11 @@ while True:
 ```
 ## OUTPUT
 ### clinet.py
-![alt text](client.png)
+![image](https://github.com/user-attachments/assets/171e413a-f9ed-4aa5-8dfe-ca30aa62ad4c)
+
 ### server.py
-![alt text](server.png)
+![image](https://github.com/user-attachments/assets/a9d0a2d2-98c3-4a62-a496-10008ca6c48c)
+
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
 successfully created and executed.
